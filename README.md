@@ -5,6 +5,8 @@ application up and running.
 
 Rails 6/Ruby 3
 
+Using devise gem to manage users/sessions
+Using bootstrap for styling
 
 Heroku app name is gregsstocktracker.  to get build for Heroku to work:
 - gem for sqlite must be moved to dev/test

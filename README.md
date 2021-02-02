@@ -8,6 +8,10 @@ Rails 6/Ruby 3
 Using devise gem to manage users/sessions
 Using bootstrap for styling
 
+Using IEX api for prices
+
+
+
 Heroku app name is gregsstocktracker.  to get build for Heroku to work:
 - gem for sqlite must be moved to dev/test
 - gem for postgres added to production

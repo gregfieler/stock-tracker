@@ -17,6 +17,8 @@ Heroku app name is gregsstocktracker.  to get build for Heroku to work:
 - gem for postgres added to production
 - bundle lock --add-platform x86_64-linus command
 
+[ need to figure out how to edit encrypted files on Heroku ]
+
 
 Things you may want to cover:
 

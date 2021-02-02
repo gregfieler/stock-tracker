@@ -1,4 +1,4 @@
-<h1>My Portfolio</h1>
+<h1>My 10 Bad Bets</h1>
 
 <div class='search-area'>
   <h3>Search Stocks</h3>
@@ -19,5 +19,9 @@
 <div id="results">
   <%# <%= render 'users/result.html' %> 
 </div>
+
+<% if !@tracked_stocks.empty? %>
+  <%= render 'stocks/list'%>
+<% end %>
 
 

@@ -1,5 +1,14 @@
 # README
 
+#todo to finish this:
+-clean up formatting (user details show page, titles, colors)
+-get the app running on heroku
+
+-post to udemy for lesson 286
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

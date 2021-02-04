@@ -28,6 +28,10 @@ lesson 278 is 'add my friends view with listing of followed friends'
 
 starting lesson 279 'add search friends form'
 
+here's where i started to run into trouble lesson 280
+'search friends Ajax subbmission and js response
+
+
 
 * Ruby version
 

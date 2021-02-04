@@ -22,6 +22,13 @@ Heroku app name is gregsstocktracker.  to get build for Heroku to work:
 
 Things you may want to cover:
 
+tracking commits
+lesson 276 is 'allow fist and last names during signup'
+lesson 278 is 'add my friends view with listing of followed friends'
+
+starting lesson 279 'add search friends form'
+
+
 * Ruby version
 
 * System dependencies

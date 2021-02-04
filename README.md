@@ -31,6 +31,8 @@ starting lesson 279 'add search friends form'
 here's where i started to run into trouble lesson 280
 'search friends Ajax subbmission and js response
 
+add search now works
+
 
 
 * Ruby version

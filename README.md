@@ -4,7 +4,17 @@
 -clean up formatting (user details show page, titles, colors)
 -get the app running on heroku
 
+- found a bug in the lesson code - both following 10 and this stock  views/stocks/_list.html /_result.html
+(fixed in two places added second condition to if statement before 'this stock')
+
 -post to udemy for lesson 286
+
+possible enhancement
+-add search to see what friends follow what stocks
+-add comments to portfolio
+--one way would be to change the users stocks table
+    not sure if that would be the right way
+-clean up formatting of prices
 
 
 
